@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+      body{
+        font-family: Montserrat;
+        
+      }
+      h1{
+        font-size: 44px;
+        }
+        .pre1{
+            font-size: 12px
+        }
+        .pre2{
+            font-size: 16px;
+        }
+
+    </style>
+
+<title>TASK</title>
+</head>
+<body>
+
+<h1>ИА «Панорама» сообщает</h1>
+<pre class="pre1">20 дек 2020</pre>
+<pre class="pre2">Полиция Улан-Удэ пресекла несанкционированную игру в футбол «головой» Ленина</pre>
+<pre class="pre1">19 дек 2020</pre>
+<pre class="pre2">Участники шоу «Дом-2» объявили себя обманутыми дольщиками</pre>
+<pre class="pre1">12 дек 2020</pre>
+<pre class="pre2">Польская ракета-носитель взорвалась после удара о небесную твердь</pre>
+<pre class="pre1">09 дек 2020</pre>
+<pre class="pre2">В рамках программы по колонизации Луны «Роскосмос» построит на спутнике колонию общего режима</pre>
+</body>
+
+
+
+</html>
